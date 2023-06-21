@@ -47,8 +47,8 @@
 <p><a href="https://www.buymeacoffee.com/profosborn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="profosborn" /></a></p><br><br>
 
  ## Statistics
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=profosborn&show_icons=true&locale=en" alt="profosborn" /></p>
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profosborn&show_icons=true&layout=compact&theme=dark&hide_border=false" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=profosborn&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Prof. Osborn's github stats" /></p>
 
