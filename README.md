@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I'm enrolled in ALX Software Engineering Cohort 13**
 
+-  🔭 I'm a member of **Google Developer Group, KNUST Chapter**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/profosborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="profosborn" height="30" width="40" /></a>
