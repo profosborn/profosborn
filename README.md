@@ -54,7 +54,7 @@
 
 
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Tolulope Fakunle's github stats" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profosborn&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=profosborn&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Prof. Osborn's github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulope05&theme=dark" alt="Tolulope05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulope05&theme=dark" alt="ProfOsborn" /></p>
