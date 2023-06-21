@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2 align="center">👔 Skills</h2>
+## 👔 Skills
 
 Soft Skills | Technical Skills
 --- | --- 
