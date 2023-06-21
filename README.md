@@ -26,8 +26,16 @@
 
 Soft Skills | Technical Skills
 --- | --- 
-**Communication**  |  ![Fi
-**Problem-solving** | hjldf
+**✅ Communication**  | ✅ Programming Languages
+**✅ Problem-solving** | ✅ Data Structures and Algorithms
+**✅ Adaptability** | ✅ Database Management
+**✅ Teamwork and Collaboration** | ✅ Testing and Debugging
+**✅ Time Management** | ✅ Software Architecture and Design
+**✅ Attention to Detail** | ✅ Operating Systems
+**✅ Continuous Learning** | ✅ Problem Solving and Debugging
+**✅ Empathy and Emotional Intelligence** | ✅ Web Development
+**✅ Documentation and Technical Writing** | ✅ Mobile Development
+**✅ Leadership** | ✅ Software Engineering Best Practices
 
 <hr>
 
