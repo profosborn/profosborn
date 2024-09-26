@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **oeworlasi@gmail.com**
 
-- ⚡ Fun fact **I'm enrolled in ALX Software Engineering Cohort 13**
+- ⚡ Fun fact **I graduated in ALX Software Engineering Cohort 13**
 
 -  🔭 I'm a member of **Google Developer Group, KNUST Chapter**
 
