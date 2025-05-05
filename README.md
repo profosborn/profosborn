@@ -2,7 +2,7 @@
 
 <h1 align="center">Edudzi Worlasi Osborn Github Profile</h1>
 
-<h3 align="center">An Experienced Flutter and NodeJS Developer</h3>
+<h3 align="center">An Experienced Flutter and Fullstack Web Developer</h3>
 
 <img align="right" alt="profosborn coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
